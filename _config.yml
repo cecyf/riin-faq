@@ -8,5 +8,5 @@ logo: "/assets/images/riin_top_banner.png"
 
 aux_links:
   Instance Mastodon RI&IN: https://riin.fr
-
+nav_external_links_new_tab: true
 color_scheme: dark
