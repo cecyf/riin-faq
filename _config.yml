@@ -1,8 +1,10 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: FAQ Communauté RI&IN
+description: FAQ des utilisateurs du serveur mastodon riin.fr
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://aide.riin.fr
+
+logo: "/assets/images/riin_horizontal_full_banner-2.png"
 
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
